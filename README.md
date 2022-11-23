@@ -1,7 +1,6 @@
 # Adam-portfolio
 
-# Bootstrap-Portfolio
-##Description
+## Description
 Working With BOOTSTRAP Challenge: Portfolio
 I created this project to hone my skills in developing websites that are responsive when viewed on smaller devices in addition to being fully functional.
 
@@ -9,7 +8,7 @@ This project primarily serves as an example showing how effective the bootstrap 
 
 
 
-##Usage
+## Usage
 
 Here is some screenshot showing the expecting result
 ![Screenshot_20221108_211023](https://user-images.githubusercontent.com/115763652/200690504-8e860260-de19-4903-9ed1-3435c179d34d.png)
@@ -20,16 +19,16 @@ Here is some screenshot showing the expecting result
 
 
 
-##Credits
+## Credits
 
 I use this site https://www.name-coach.com/andrea-buwalda as an inspiration on how boxes animation works using transition and opacity.
 
 
-##License
+## License
 
 ![GitHub](https://img.shields.io/github/license/Ad-sall/Adam-portfolio?style=for-the-badge)
 
-##Copyright (c) [2022] [Adama Sall]
+## Copyright (c) [2022] [Adama Sall]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
@@ -37,6 +36,10 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-##Features
+## Features
 
 Responsive features for smaller screens using bootstrap and media queries.
+
+## Deployment  
+
+ https://ad-sall.github.io/Adam-portfolio/
